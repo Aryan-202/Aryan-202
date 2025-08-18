@@ -71,7 +71,7 @@ I love contributing to open-source projects! Some of my contributions:
 ---
 
 ## **📫 Let's Connect!**  
-[![LinkedIn]](https://www.linkedin.com/in/aryan-vishwakarma-387927321/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-vishwakarma-387927321/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
 
