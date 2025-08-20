@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about building mobile apps with **F
 
 ## **📈 GitHub Stats**  
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blue-berry54&show_icons=true&theme=radical&hide_border=true)  
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&theme=radical&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-berry54&layout=compact&theme=radical)  
 
