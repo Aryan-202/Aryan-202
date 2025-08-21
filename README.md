@@ -1,5 +1,7 @@
-# **👋 Hi, I'm Aryan Vishwakarma**  
-### *Flutter & Kotlin Developer | Data Analytics Enthusiast | 2nd-Year CS Student*  
+<h1 align="center">Hello World, I am Aryan Vishwakarma</h1>
+<h3 align="center">A passionate full stack developer and data analyst</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-202&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-202" /> </p>
 
 Welcome to my GitHub profile! I'm passionate about building mobile apps with **Flutter & Kotlin** and exploring **data analytics**. Currently learning and growing while pursuing my degree in **Computer Science**.  
 
@@ -57,9 +59,27 @@ Welcome to my GitHub profile! I'm passionate about building mobile apps with **F
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-berry54&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-202&layout=compact&theme=radical)  
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryan-202" alt="aryan-202" /></a> </p>
 
 ---
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [converto](https://github.com/Aryan-202/converto.git)
+
+- 🌱 I’m currently learning **tauri + Next.js + Vue**
+
+- 👯 I’m looking to collaborate on [OPENGEEK](https://github.com/AhqafCoder/OPENGEEK.git)
+
+- 🤝 I’m looking for help with **tauri app dev**
+
+- 💬 Ask me about **Flutter + Kotlin + Python**
+
+- 📫 How to reach me **aryanvishwakarma275@gmail.com**
+
+- ⚡ Fun fact **I can solve rubik's cube in 1 minute**
 
 ## **🌱 Open Source Contributions**  
 I love contributing to open-source projects! Some of my contributions:  
