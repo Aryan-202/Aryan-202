@@ -1,10 +1,10 @@
 <h1 align="center">Hello World, I am Aryan Vishwakarma</h1>
-### Hello World 👋
+###Hello World 👋
 
 ![Typing Animation](https://github.com/Aryan-202/Aryan-202/pfp-edit/typing_name.gif)
 
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00F700&width=435&lines=Hello+World%2C+I+am+Aryan+Vishwakarma)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00F700&width=435&lines=Hello+World%2C+I+am+Aryan+Vishwakarma)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate full stack developer and data analyst</h3>
 
