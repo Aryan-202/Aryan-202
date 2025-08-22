@@ -16,11 +16,6 @@ Welcome to my GitHub profile! I'm passionate about building mobile apps with **F
 
 ## **🛠️ Skills & Technologies**  
 
-
-
-
-
-
 ### **Mobile Development**  
 📱 **Flutter** (Dart) – Cross-platform apps  
 📱 **Kotlin** – Android native development  
