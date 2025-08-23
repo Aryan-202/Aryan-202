@@ -62,3 +62,27 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
 </p>
+
+
+## 📂 Featured Projects  
+
+### 🚀 [Project Name 1](https://github.com/YourUserName/RepoName)
+> Short description of the project (what it does, why it's useful).
+- 🔧 Built with: Python, Flask, PostgreSQL  
+- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/YourUserName/RepoName?style=social)  
+- 📌 Demo: [Live Link](https://example.com)
+
+---
+
+### 🎮 [Project Name 2](https://github.com/YourUserName/RepoName)
+> A fun project about XYZ (1–2 lines).
+- 🛠️ Tech Stack: React, Node.js, MongoDB  
+- 📸 Preview:  
+  <img src="https://github.com/YourUserName/RepoName/raw/main/screenshot.png" width="500">
+
+---
+
+### 📊 [Project Name 3](https://github.com/YourUserName/RepoName)
+> Description about this project.
+- 🔧 Built with: Java, Spring Boot, MySQL  
+- 🎥 Demo Video: [YouTube Link](https://youtube.com/xyz)
