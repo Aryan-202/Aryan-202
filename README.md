@@ -69,7 +69,7 @@ print(f"Passionate about {me.passion}")
 <!-- github achivments -->
 ## 🏆 GitHub Achievements
 
-![Aryan's GitHub Achievements](https://github-readme-activity-graph.cyclic.app/graph?username=Aryan-202&theme=react-dark)
+<!--![Aryan's GitHub Achievements](https://github-readme-activity-graph.cyclic.app/graph?username=Aryan-202&theme=react-dark)-->
 
 ![Aryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-202&theme=radical)
 
