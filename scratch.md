@@ -35,5 +35,3 @@ class AboutAryan:
 me = AboutAryan()
 print(f"Passionate about {me.passion}")
 ```
-
-
