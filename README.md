@@ -16,7 +16,7 @@
   <a href="https://github.com/Aryan-202/Aryan-202">
     <img src="https://img.shields.io/github/stars/Aryan-202/Aryan-202?style=social" alt="GitHub stars" />
   </a>
-  <a href="https://www.linkedin.com/in/aryan-vishwakarma/">
+  <a href="https://www.linkedin.com/in/aryan-vishwakarma-387927321/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
@@ -64,6 +64,19 @@ print(f"Passionate about {me.passion}")
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-202&layout=compact&theme=radical)
+
+
+<!-- github achivments -->
+## 🏆 GitHub Achievements
+
+![Aryan's GitHub Achievements](https://github-readme-activity-graph.cyclic.app/graph?username=Aryan-202&theme=react-dark)
+
+![Aryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-202&theme=radical)
+
+
+<!-- github trophies -->
+
+
 
 
 <!-- footer -->
