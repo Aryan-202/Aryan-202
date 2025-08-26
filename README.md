@@ -69,7 +69,17 @@ print(f"Passionate about {me.passion}")
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-202&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
+<br/>
+
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-202&theme=dark&hide_border=false" alt="Top Languages" />
+</div>
+
+
 <!-- github trophies -->
+## 🏆 GitHub Trophies
+
+
 
 
 
