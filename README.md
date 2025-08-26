@@ -60,21 +60,26 @@ print(f"Passionate about {me.passion}")
 <!-- github stats -->
 ## 📊 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs" alt="Aryan's GitHub Stats" />
+</div>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-202&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-202&layout=compact&theme=radical)
+<br/>
 
-
-<!-- github achivments -->
-## 🏆 GitHub Achievements
-
-<!--![Aryan's GitHub Achievements](https://github-readme-activity-graph.cyclic.app/graph?username=Aryan-202&theme=react-dark)-->
-
-![Aryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-202&theme=radical)
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-202&theme=dark&hide_border=false" alt="Top Languages" />
+</div>
 
 
 <!-- github trophies -->
+## 🏆 GitHub Trophies
+
+
 
 
 
