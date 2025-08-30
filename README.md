@@ -81,11 +81,9 @@ print(f"Passionate about {me.passion}")
 
 # Languages and Tools
 
-## 🎯 Programming Languages
 
 <div align="center">
 
-# Languages and Tools
 
 ## 🎯 Programming Languages
 
