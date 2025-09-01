@@ -182,6 +182,7 @@ print(f"Passionate about {me.passion}")
 </div>
 
 <!-- footer -->
+<!--added new changes-->
 
 <div align="center">
   <p>
