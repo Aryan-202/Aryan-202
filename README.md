@@ -184,6 +184,8 @@ print(f"Passionate about {me.passion}")
 
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!-- footer -->
