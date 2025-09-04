@@ -192,10 +192,18 @@ print(f"Passionate about {me.passion}")
 <!-- footer -->
 <!--added new changes-->
 
+<!-- centre the below link -->
 <div align="center">
-  <p>
-    Made with ❤️ by Aryan Vishwakarma
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77722&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Aryan" alt="Typing SVG" />
+</div>
+
+
+
+
+
+  <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77722&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Aryan)](https://git.io/typing-svg) -->
+  
+  
   <!-- mit licence link -->
   <p>
     <a href="https://opensource.org/licenses/MIT">
