@@ -190,7 +190,7 @@ print(f"Passionate about {me.passion}")
 
 
 <!-- footer -->
-<!--added new changes-->
+
 
 <!-- centre the below link -->
 <div align="left">
