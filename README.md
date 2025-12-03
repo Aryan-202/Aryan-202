@@ -113,31 +113,20 @@ print(f"Passionate about {me.passion}")
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:aryanvishwakarma275@gmail.com">
-    <img src="icons/Gmail-Logo.wine.svg" width="60" />
-  </a>
+<div align="center">
 
-  &nbsp;
-
-  <!-- Portfolio
-  <a href="https://welcomearyan.vercel.app" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aryanspf" target="_blank">
-    <img src="icons/linkedin-icon-2.svg" width="40" />
+  <a href="https://github.com/Aryan-202" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
-  &nbsp;
-  <!-- X (Twitter) - white icon -->
-  <a href="https://x.com/AryanxSenpai" target="_blank">
-    <img src="icons/X_logo_2023_(white).png" width="40" style="filter: invert(1);" />
-  </a>
-  &nbsp;
-  <!-- Instagram -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/genuine_d.aryan" target="_blank">
-    <img src="icons/instagram.svg" width="50" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:aryanvishwakarma275@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+
+</div>
