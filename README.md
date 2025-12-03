@@ -122,10 +122,10 @@ print(f"Passionate about {me.passion}")
     <img src="icons/Gmail-Logo.wine.svg" width="60" />
   </a>
 
-  <!-- Portfolio -->
+  <!-- Portfolio
   <a href="https://welcomearyan.vercel.app" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aryanspf" target="_blank" style="margin: 0 20px;">
