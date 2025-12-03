@@ -115,7 +115,7 @@ print(f"My Principle: {me.principle}")
 <p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
