@@ -118,7 +118,7 @@ print(f"Passionate about {me.passion}")
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:aryanvishwakarma275@gmail.com" style="margin: 0 20px;">
+  <a href="mailto:aryanvishwakarma275@gmail.com">
     <img src="icons/Gmail-Logo.wine.svg" width="60" />
   </a>
 
@@ -126,19 +126,21 @@ print(f"Passionate about {me.passion}")
   <a href="https://welcomearyan.vercel.app" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a> -->
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aryanspf" target="_blank" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/aryanspf" target="_blank">
     <img src="icons/linkedin-icon-2.svg" width="40" />
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- X (Twitter) - white icon -->
-  <a href="https://x.com/AryanxSenpai" target="_blank" style="margin: 0 20px;">
+  <a href="https://x.com/AryanxSenpai" target="_blank">
     <img src="icons/X_logo_2023_(white).png" width="40" style="filter: invert(1);" />
   </a>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <!-- Instagram -->
-  <a href="https://instagram.com/genuine_d.aryan" target="_blank" style="margin: 0 20px;">
+  <a href="https://instagram.com/genuine_d.aryan" target="_blank">
     <img src="icons/instagram.svg" width="50" />
   </a>
 </p>
