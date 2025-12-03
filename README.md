@@ -50,9 +50,89 @@ me = AboutAryan()
 print(f"Passionate about {me.passion}")
 ```
 
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix)
+
+
+<table width="100%" align="center">
+  <tr>
+    <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Aryan-202&mode=weekly&hide_border=true&background=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Aryan-202&mode=weekly&hide_border=true&background=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=Aryan-202&mode=weekly&hide_border=true" height="100%" />
+      </picture>
+    </a></td>
+  </tr>
+  <tr>
+<!-- Thanks @zetaloop! -->
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Aryan-202&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Aryan-202&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Aryan-202&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Aryan-202&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Aryan-202&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Aryan-202&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Aryan-202&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Aryan-202=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Aryan-202=8&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+      <picture>
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Aryan-202&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Aryan-202&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Aryan-202&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+      </picture>
+    </a></td>
+  </tr>
+</table>
+
+
+
+
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77722&width=435&lines=Made+with+❤️+by+Aryan" /> </p> <p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p> 
-
-
-![Aryan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-202&theme=vue)
-
-![Aryan's GitHub commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Aryan-202}&theme={vue}&exclude={exclude})
