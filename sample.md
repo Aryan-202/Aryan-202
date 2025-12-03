@@ -17,3 +17,7 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F77722&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Developer.+Problem+Solver.+Learner.;Code.+Coffee.+Repeat.;Data+Analyst+📊+%26+App+Developer+📱;Android+🤖+%2B+Desktop+🖥️+Dev;ML+Enthusiast+🚀;Let's+Build+Something+Awesome!">
 </p> -->
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aryan-202)
