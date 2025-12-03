@@ -163,6 +163,7 @@ print(f"Passionate about {me.passion}")
 
 <!-- footer -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- centre the below link -->
 <div align="left">
