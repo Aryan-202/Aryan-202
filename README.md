@@ -116,7 +116,7 @@ print(f"Passionate about {me.passion}")
 
 <!-- Left: Title -->
 
-<td align="left" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
   
 
 <h2 align="center">🌐 Connect With Me</h2>
