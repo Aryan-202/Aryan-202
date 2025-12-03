@@ -117,19 +117,6 @@ print(f"Passionate about {me.passion}")
       </picture>
     </a></td>
   </tr>
-  <tr>
-    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-      <picture>
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Aryan-202&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Aryan-202&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=Aryan-202&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
-      </picture>
-    </a></td>
-  </tr>
 </table>
 
 
