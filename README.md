@@ -134,7 +134,7 @@ print(f"Passionate about {me.passion}")
 
   <!-- X (Twitter) - white icon -->
   <a href="https://x.com/AryanxSenpai" target="_blank" style="margin: 0 20px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="40" style="filter: invert(1);" />
+    <img src="icons/X_logo_2023_original.svg" width="40" style="filter: invert(1);" />
   </a>
 
   <!-- Instagram -->
