@@ -113,20 +113,35 @@ print(f"Passionate about {me.passion}")
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
+<div align="center">
+
+  <!-- GitHub -->
   <a href="https://github.com/Aryan-202" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
+  &thinsp;&thinsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aryanspf" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Twitter / X -->
   <a href="https://twitter.com/AryanxSenpai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://instagram.com/genuine_d.aryan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
   <a href="mailto:aryanvishwakarma275@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
-</p>
+
+</div>
