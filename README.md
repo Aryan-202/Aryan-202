@@ -58,7 +58,7 @@ print(f"My Principle: {me.principle}")
     <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
         <source
-          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Aryan-202&mode=weekly&hide_border=true&background=00000000&theme=dark"
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Aryan-202&theme=dark&mode=weekly&hide_border=false&background=#151515&theme=dark"
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Aryan-202&mode=weekly&hide_border=true&background=00000000"
