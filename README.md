@@ -119,7 +119,7 @@ print(f"Passionate about {me.passion}")
 <p align="center">
   <!-- Email -->
   <a href="mailto:aryanvishwakarma275@gmail.com" style="margin: 0 15px;">
-    <img src="icons/Gmail-Logo.wine.svg" width="40" />
+    <img src="icons/Gmail-Logo.wine.svg" width="60" />
   </a>
 
   <!-- Portfolio -->
@@ -139,6 +139,6 @@ print(f"Passionate about {me.passion}")
 
   <!-- Instagram -->
   <a href="https://instagram.com/genuine_d.aryan" target="_blank" style="margin: 0 15px;">
-    <img src="icons/instagram.svg" width="40" />
+    <img src="icons/instagram.svg" width="50" />
   </a>
 </p>
