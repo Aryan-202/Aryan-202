@@ -120,7 +120,7 @@ print(f"Passionate about {me.passion}")
 
   <!-- Email -->
   <a href="mailto:aryanvishwakarma275@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="icons/Gmail-Logo.wine.svg" />
   </a>
 
   <!-- Portfolio -->
@@ -130,17 +130,17 @@ print(f"Passionate about {me.passion}")
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aryanspf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="icons/linkedin-icon-2.svg" />
   </a>
 
   <!-- X (Twitter) -->
   <a href="https://x.com/AryanxSenpai" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="icons/X_logo_2023_original.svg" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/genuine_d.aryan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="icons/instagram.svg" />
   </a>
 
 </p>
