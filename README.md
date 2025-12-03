@@ -111,36 +111,41 @@ print(f"Passionate about {me.passion}")
 
 <p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p>
 
-<!-- Bottom Section -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 40px;">
-<!-- Left Bottom: Title -->
-<h2>🌐 Connect With Me</h2>
-<!-- Right Bottom: Icons -->
-<div style="display: flex; gap: 15px; padding-right: 10px;">
-<!-- GitHub -->
+<table width="100%">
+<tr>
+
+<!-- Left: Title -->
+
+<td align="left" style="padding: 10px;">
+  
+
+<h2 style="margin: 0;">🌐 Connect With Me</h2>
+
+</td>
+
+
+<!-- Right: Icons -->
+<td align="right" style="padding: 10px;">
 <a href="https://github.com/Aryan-202" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
 </a>
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/aryanspf" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
 
-<!-- Twitter -->
 <a href="https://twitter.com/AryanxSenpai" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
 </a>
 
-<!-- Instagram -->
 <a href="https://instagram.com/genuine_d.aryan" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
 </a>
 
-<!-- Gmail -->
 <a href="mailto:aryanvishwakarma275@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
 </a>
+</td>
+  </tr>
+</table>
 
-</div>
-</div>
