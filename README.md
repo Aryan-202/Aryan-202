@@ -122,7 +122,7 @@ print(f"Passionate about {me.passion}")
 
 
 
-<p align="center">
+<p align="left">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77722&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Aryan" 
     alt="Typing SVG" 
