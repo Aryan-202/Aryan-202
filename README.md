@@ -122,8 +122,12 @@ print(f"Passionate about {me.passion}")
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77722&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Aryan" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77722&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Aryan" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 <p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p> 
