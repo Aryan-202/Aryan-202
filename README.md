@@ -117,30 +117,28 @@ print(f"Passionate about {me.passion}")
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-
   <!-- Email -->
-  <a href="mailto:aryanvishwakarma275@gmail.com">
-    <img src="icons/Gmail-Logo.wine.svg" />
+  <a href="mailto:aryanvishwakarma275@gmail.com" style="margin: 0 15px;">
+    <img src="icons/Gmail-Logo.wine.svg" width="40" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://welcomearyan.vercel.app" target="_blank">
+  <a href="https://welcomearyan.vercel.app" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aryanspf" target="_blank">
-    <img src="icons/linkedin-icon-2.svg" />
+  <a href="https://www.linkedin.com/in/aryanspf" target="_blank" style="margin: 0 15px;">
+    <img src="icons/linkedin-icon-2.svg" width="40" />
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/AryanxSenpai" target="_blank">
-    <img src="icons/X_logo_2023_original.svg" />
+  <a href="https://x.com/AryanxSenpai" target="_blank" style="margin: 0 15px;">
+    <img src="icons/X_logo_2023_original.svg" width="40" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/genuine_d.aryan" target="_blank">
-    <img src="icons/instagram.svg" />
+  <a href="https://instagram.com/genuine_d.aryan" target="_blank" style="margin: 0 15px;">
+    <img src="icons/instagram.svg" width="40" />
   </a>
-
 </p>
