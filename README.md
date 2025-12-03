@@ -113,11 +113,9 @@ print(f"Passionate about {me.passion}")
 
 <!-- Bottom Section -->
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 40px;">
-
-  <!-- Left Bottom: Title -->
-  <h2>🌐 Connect With Me</h2>
-
-  <!-- Right Bottom: Icons -->
+<!-- Left Bottom: Title -->
+<h2>🌐 Connect With Me</h2>
+<!-- Right Bottom: Icons -->
 <div style="display: flex; gap: 15px; padding-right: 10px;">
 <!-- GitHub -->
 <a href="https://github.com/Aryan-202" target="_blank">
