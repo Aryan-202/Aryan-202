@@ -24,23 +24,28 @@
 <!-- # 🧠 **About Me** -->
 
 ```python
-class AboutAryan:
+class AboutMe:
+
     def __init__(self):
-        self.year = "Second-Year"
-        self.major = "Data Analytics"
-        self.passion = "Turning data into actionable insights"
+        self.university = "VIT-AP University"
+        self.major = "Computer Science (Data Analytics)"
+        self.principle = "I'd rather rule my own chaos than serve in someone else's order."
+        self.year = "Second Year"
+        self.identity = ["Trader", "Entrepreneur", "Builder", "Content Creator"]
 
     def skills(self):
-        return ["Flutter", "Kotlin", "Tauri", "Rust", "Python", "SQL"]
+        return {
+            "languages": ["Julia", "Rust", "Go", "Mojo", "Carbon", "Python"],
+            "frameworks": ["Tauri", "Qwik", "SvelteKit", "SolidJS", "Laravel"],
+            "exploring": ["Zig", "Guppy", "Astro", "Bun"],
+            "core_strength": "Rapid learning and cross-domain execution"
+        }
 
-    def currently_learning(self):
-        return "Machine Learning & Data Visualization"
+    def funfact(self):
+        return 'Modern problems deserve modern stacks—so I build with the newest tools.'
 
-    def fun_fact(self):
-        return "I love building apps that solve everyday problems!"
-
-me = AboutAryan()
-print(f"Passionate about {me.passion}")
+me = AboutMe()
+print(f"My Principle: {me.principle}")
 ```
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix)
