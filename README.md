@@ -28,7 +28,7 @@ class AboutMe:
     def __init__(self):
         self.university = "VIT-AP University"
         self.major = "Computer Science (Data Analytics)"
-        self.principle = "I'd rather rule my own chaos than serve in someone else's order."
+        self.principle = "I’d rather reign in my own chaos than be a slave under someone else’s order."
         self.year = "Second Year"
         self.identity = ["Trader", "Entrepreneur", "Builder", "Content Creator"]
 
