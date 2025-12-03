@@ -72,7 +72,7 @@ print(f"Passionate about {me.passion}")
 <br/>
 
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-202&theme=dark&hide_border=false" alt="Top Languages" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-202&theme=dark&hide_border=false" alt="Streak" />
 </div>
 
 

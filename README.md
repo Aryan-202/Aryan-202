@@ -19,11 +19,6 @@
 
 ---
 
-<!-- ANIMATED TEXT -->
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F77722&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Developer.+Problem+Solver.+Learner.;Code.+Coffee.+Repeat.;Data+Analyst+📊+%26+App+Developer+📱;Android+🤖+%2B+Desktop+🖥️+Dev;ML+Enthusiast+🚀;Let's+Build+Something+Awesome!">
-</p> -->
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Developer.+Problem+Solver.+Learner.;Code.+Coffee.+Repeat.;Student+by+day%2C+developer+by+night.+;Data+Analyst+%F0%9F%93%8A+%26+App+Developer+%F0%9F%93%B1;Android+%F0%9F%A4%96+%2B+Desktop+%F0%9F%96%A5%EF%B8%8F+%3D+%E2%9D%A4%EF%B8%8F;Data+%F0%9F%93%8A+%7C+Dev+%F0%9F%92%BB;%2F%2F+TODO%3A+Build+awesome+stuff+%E2%9A%A1)
 
 ---
@@ -58,16 +53,9 @@ print(f"Passionate about {me.passion}")
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Aryan-202&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
-      </picture>
-    </a></td>
+       <div align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-202&theme=dark&hide_border=false" alt="Streak" />
+    </div></td>
     <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
         <source
@@ -131,3 +119,4 @@ print(f"Passionate about {me.passion}")
 
 
 <p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p> 
+
