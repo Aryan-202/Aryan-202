@@ -5,7 +5,7 @@
   <em>Passionate Developer • Tech Enthusiast • Problem Solver</em>
 </p>
 
-<p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p>
+<!-- <p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p> -->
 <p align="center">
   <a href="https://github.com/Aryan-202">
     <img src="https://img.shields.io/github/followers/Aryan-202?style=social" />
