@@ -49,6 +49,7 @@ me = AboutMe()
 print(f"My Principle: {me.principle}")
 ```
 <!-- [trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202)](https://github.com/Aryan-202/github-profile-trophy) -->
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
