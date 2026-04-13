@@ -2,7 +2,17 @@
 <h1 align="center">👋 Hello World, I'm <span style="color:#F39C12;">Aryan Vishwakarma</span></h1>
 
 <p align="center">
-  <em>Passionate Developer • Tech Enthusiast • Problem Solver</em>
+  <em>Business Consultant • Automation Engineer • Problem Solver</em>
+</p>
+
+<p align="center">
+  I turn repetitive business tasks into automated systems that run 24/7.
+</p>
+
+<p align="center">
+  I help businesses eliminate manual work, capture every lead, and respond instantly — without hiring more people.
+  <br>
+  <strong>Outcome:</strong> More efficiency, faster response time, and zero missed opportunities.
 </p>
 
 <!--<p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p>-->
@@ -23,28 +33,40 @@
 <!-- #  **About Me** -->
 
 ```python
-class AboutMe:
-
+class AryanVishwakarma:
     def __init__(self):
-        self.university = "VIT-AP University"
-        self.major = "Computer Science (Data Analytics)"
-        self.principle = "I’d rather reign in my own chaos than be a slave under someone else’s order."
-        self.year = "Second Year"
-        self.identity = ["Trader", "Entrepreneur", "Builder", "Content Creator"]
+        self.role = "Automation Engineer"
+        self.focus = "Reducing manual work through automation systems"
+        self.location = "India"
+        self.status = "Open to freelance & collaboration"
 
-    def skills(self):
+    def what_i_build(self):
+        return [
+            "AI-powered lead automation systems",
+            "End-to-end business workflows (capture → process → respond)",
+            "Data pipelines & dashboards for decision making",
+            "Automation tools that save hours of manual work"
+        ]
+
+    def results(self):
+        return [
+            "Reduced manual workload using automation",
+            "Instant lead response systems (no missed opportunities)",
+            "Faster business operations with minimal human input"
+        ]
+
+    def tech_stack(self):
         return {
-            "languages": ["Julia", "Rust", "Go", "Mojo", "Carbon", "Python"],
-            "frameworks": ["Tauri", "Qwik", "SvelteKit", "SolidJS", "Laravel"],
-            "exploring": ["Zig", "Guppy", "Astro", "Bun"],
-            "core_strength": "Rapid learning and cross-domain execution"
+            "core": ["Python", "Julia", "Rust", "Go"],
+            "automation": ["n8n", "APIs", "Webhooks"],
+            "data": ["Pandas", "Power BI", "Excel", "SQL", "Tableau", "Numpy"],
+            "development": ["Android (Jetpack Compose)", "Desktop (Tauri)", "Web (SvelteKit5)"]
         }
 
-    def funfact(self):
-        return 'Modern problems deserve modern stacks—so I build with the newest tools.'
+    def current_focus(self):
+        return "Building scalable automation systems for real-world business use"
 
-me = AboutMe()
-print(f"My Principle: {me.principle}")
+me = AryanVishwakarma()
 ```
 
 <!-- [trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix) -->
