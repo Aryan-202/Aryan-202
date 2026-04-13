@@ -5,8 +5,6 @@
   <em>Passionate Developer • Tech Enthusiast • Problem Solver</em>
 </p>
 
-
-
 <!--<p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" height="25"> </a> </p>-->
 <p align="center">
   <a href="https://github.com/Aryan-202">
@@ -48,13 +46,14 @@ class AboutMe:
 me = AboutMe()
 print(f"My Principle: {me.principle}")
 ```
+
 <!-- [trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202)](https://github.com/Aryan-202/github-profile-trophy) -->
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
        <div align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-202&theme=dark&hide_border=false" alt="Streak" />
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan-202&theme=dark" alt="GitHub Streak" /></a>
     </div></td>
     <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
@@ -113,7 +112,6 @@ print(f"My Principle: {me.principle}")
   />
 </p>
 
-
 <h2 align="center">Connect With Me</h2>
 
 <div align="center">
@@ -148,5 +146,3 @@ print(f"My Principle: {me.principle}")
   </a>
 
 </div>
-
-
