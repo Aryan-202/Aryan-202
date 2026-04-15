@@ -69,7 +69,7 @@ class AryanVishwakarma:
 me = AryanVishwakarma()
 ```
 
-<!-- [trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix) -->
+[trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202)](https://github.com/Aryan-202/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy-arasgungore.vercel.app/?username=Aryan-202)] -->
 
