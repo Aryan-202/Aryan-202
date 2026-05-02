@@ -70,9 +70,10 @@ me = AryanVishwakarma()
 ```
 
 <!-- [trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=matrix) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202)](https://github.com/Aryan-202/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-202)](https://github.com/Aryan-202/github-profile-trophy)
 <!-- [![trophy](https://github-profile-trophy-arasgungore.vercel.app/?username=Aryan-202)] -->
 
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Aryan-202&theme=react&no-frame=false&no-bg=true&margin-w=4) -->
 
 <table width="100%" align="center">
   <tr>
