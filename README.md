@@ -163,7 +163,7 @@ me = AryanVishwakarma()
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Instagram -->
-  <a href="https://instagram.com/genuine_d.aryan" target="_blank">
+  <a href="https://www.instagram.com/_aryan._.vishwakarma_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
