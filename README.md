@@ -157,9 +157,9 @@ me = AryanVishwakarma()
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Twitter / X -->
-  <a href="https://twitter.com/AryanxSenpai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
-  </a>
+<a href="https://twitter.com/AryanxSenpai" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Instagram -->
