@@ -37,7 +37,7 @@ class AryanVishwakarma:
     def __init__(self):
         self.role = "Automation Engineer"
         self.focus = "Reducing manual work through automation systems"
-        self.location = "India"
+        self.location = "India, Uttar Pradesh, Gorakhpur"
         self.status = "Open to freelance & collaboration"
 
     def what_i_build(self):
