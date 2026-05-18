@@ -60,7 +60,7 @@ class AryanVishwakarma:
             "core": ["Python", "Julia", "Rust", "Go"],
             "automation": ["n8n", "APIs", "Webhooks"],
             "data": ["Pandas", "Power BI", "Excel", "SQL", "Tableau", "Numpy"],
-            "development": ["Android (Jetpack Compose)", "Desktop (Tauri)", "Web (SvelteKit5)"]
+            "development": ["Android", "Desktop", "Web"]
         }
 
     def current_focus(self):
